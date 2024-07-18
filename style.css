@@ -1,0 +1,17 @@
+body{
+    font-family: Roboto;
+    text-align: center;
+}
+nav a{
+    gap: 10px;
+    text-decoration: none;
+    color: red;
+
+}
+#about a{
+    text-decoration: none;
+    color:red
+}
+#img{
+    border-radius: 50px;
+}
